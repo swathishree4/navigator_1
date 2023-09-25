@@ -1,0 +1,22 @@
+body{
+    margin:0;
+    padding: 0;
+    background-color:aliceblue;
+}
+nav{
+    margin:20px;
+    padding:20px;
+    background-color: black;
+    border:5px solid #ffffff;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+nav li{
+    display: inline-block;
+    margin :0 8px;
+}
+nav a{
+    text-decoration: none;
+}
